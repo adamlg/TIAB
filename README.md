@@ -43,7 +43,7 @@ For each example, I'll list the normal JavaScript result as well as the TIAB res
 	//0.7999999999999999
 
 	TIAB('0.1+0.7')
-	"0.8"
+	//"0.8"
 
 	1.23456789*9.87654321
 	//12.193263111263525
