@@ -18,16 +18,16 @@ I've only been working on this for a couple of days, so as of now the only expre
 
 ##To-dos (i.e. wish list):
 
-Substraction
-Division
-Exponents
-Negative numbers
-Rounding
-Add tests
-General code cleanup
-Update 0 and decimal cleanup
-Variable handling
-Error handling
+*Substraction
+*Division
+*Exponents
+*Negative numbers
+*Rounding
+*Add tests
+*General code cleanup
+*Update 0 and decimal cleanup
+*Variable handling
+*Error handling
 
 ## Examples
 
