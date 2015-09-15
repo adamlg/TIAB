@@ -7,7 +7,8 @@ TIAB stands for "To Infinity And Beyond."  JavaScript's representation of number
 
 Just include TIAB.js in whatever file you're developing in, and pass in a string representing the math you want to do:
 
-TIAB('13.4+52.7') //'66.1'
+	TIAB('13.4+52.7') 
+	//'66.1'
 
 Please note that TIAB returns a string, not a number.
 
