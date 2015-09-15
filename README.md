@@ -1,11 +1,4 @@
 
-## Table of Contents
-
-1. [Overview](#Overview)
-2. [Usage](#Usage)
-3. [Tech Stack](#Tech Stack)
-4. [Contributing](#Contributing)
-
 ## Overview
 
 TIAB stands for "To Infinity And Beyond."  JavaScript's representation of numbers, both small and large, has limitations.  Large numbers return "Infinity," and due to binary representation of decimals there are some inaccuracies (run 0.1+0.7 in your console, for example).  TIAB uses string manipulation to break expressions down into pieces small enough to run accurately, then return the correct answer.
