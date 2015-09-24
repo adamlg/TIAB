@@ -8,17 +8,17 @@ TIAB stands for "To Infinity And Beyond."  JavaScript's representation of number
 Just include TIAB.js in whatever file you're developing in, and pass in a string representing the math you want to do:
 
 	TIAB('13.4+52.7') 
-	//'66.1'
+	//"66.1"
 
 Please note that TIAB returns a string, not a number.
 
 ## Current Limitations
 
-I've only been working on this for a couple of days, so as of now the only expressions that can be used are parentheses, multiplication, and addition of positive numbers.  There is also no syntax error checking, so any error handling is entirely accidental.
+I've only been working on this for a little while, so as of now the only expressions that can be used are parentheses, multiplication, and addition of positive numbers.  There is also no syntax error checking, so any error handling is entirely accidental.
 
 ##To-dos (i.e. wish list):
 
-* Substraction
+* Subtraction
 * Division
 * Exponents
 * Negative numbers
